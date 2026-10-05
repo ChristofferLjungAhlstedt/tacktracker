@@ -1,4 +1,29 @@
 <resources>
     <string name="app_name">Tack Tracker</string>
-    <string name="placeholder_title">Tack Tracker – milestone 1</string>
+
+    <string name="debug_title">Heading debug</string>
+    <string name="debug_fused">Fused heading: %1$s</string>
+    <string name="debug_source">Source: %1$s</string>
+    <string name="debug_confidence">Confidence: %1$s</string>
+    <string name="debug_cog">GPS course: %1$s</string>
+    <string name="debug_speed">Speed: %1$s knots</string>
+    <string name="debug_compass">Compass, raw: %1$s</string>
+    <string name="debug_offset">Compass offset: %1$s</string>
+
+    <string name="source_cog">GPS course</string>
+    <string name="source_compass">Compass</string>
+    <string name="source_none">None</string>
+    <string name="confidence_high">High</string>
+    <string name="confidence_medium">Medium</string>
+    <string name="confidence_low">Low</string>
+
+    <string name="permission_explain">This app needs your precise location to measure your course and speed. It uses no network connection and stores nothing online.</string>
+    <string name="grant_permission">Grant location permission</string>
+    <string name="error_gps">GPS is not available. Check that location is switched on.</string>
+    <string name="error_compass">This phone has no compass sensor.</string>
+
+    <string name="mounting_title">Phone mounting</string>
+    <string name="mounting_flat_bow">Flat, top towards the bow</string>
+    <string name="mounting_upright">Upright, back facing forward</string>
+    <string name="mounting_flat_stern">Flat, top towards the stern</string>
 </resources>

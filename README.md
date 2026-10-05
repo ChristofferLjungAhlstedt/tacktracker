@@ -3,7 +3,7 @@
 Android app that tells a blind helmsperson, by sound, which tack the boat is on in match racing.
 Built from the specification, one milestone at a time. See `DECISIONS.md` for assumptions.
 
-**Status:** milestone 1 of 8 (project setup, `AngleMath`, `Settings`).
+**Status:** milestone 2 of 8 (sensors, heading fusion, debug screen).
 
 ## Build
 1. Open in Android Studio (creates the Gradle wrapper), or run `gradle wrapper` once.
